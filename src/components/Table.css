@@ -1,0 +1,23 @@
+.main-table {
+  
+    margin-top: 30%;
+}
+.head{
+  background: lightgray;
+  font-weight: bolder;
+  border:2px solid ;
+}
+.inputs {
+  border-radius: 0.2rem;
+  height: 3rem;
+  width: 15rem;
+}
+.button{
+    display: flex;
+justify-content: space-between;
+width: 15rem;
+} 
+.extra-items{
+  display:flex;
+}
+.total-value{margin-left: 11rem;}
